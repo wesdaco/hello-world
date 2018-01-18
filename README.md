@@ -1,2 +1,2 @@
-# hello-world
-This is a test repository
+# mobile snake game
+This is the main repository
